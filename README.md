@@ -1,4 +1,4 @@
-### Hi there 👋 I'm the codeninjax007
+### Hi there 👋 I'm Ambidexterity-X
 - 🔭 I’m currently working on an app with Redmond AI and integrate it with schools
 - 🌱 I’m currently learning AI and ML workflows
 - 👯 I’m looking to collaborate on a Redmond AI project with JKDevG28
